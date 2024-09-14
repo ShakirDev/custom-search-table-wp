@@ -57,5 +57,7 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
 Create a new Pull Request.
-License
-This plugin will be licensed under the MIT License. The license will be added in a future commit.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
